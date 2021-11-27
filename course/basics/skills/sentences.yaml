@@ -1,0 +1,30 @@
+Skill:
+  Name: משפטים
+  Id: 1
+
+New words:
+  - Word: perro
+    Translation: כלב
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+
+
+Phrases:
+  - Phrase: Este es un perro bueno
+    Translation: זה כלב טוב
+
+Mini-dictionary:
+  Ladino:
+    - este: זה
+    - es: יש
+    - un: אחד
+    - bueno: טוב
+
+
+  Hebrew:
+    - זה: este
+    - טוב: bueno
+
