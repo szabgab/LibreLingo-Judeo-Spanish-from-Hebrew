@@ -1,0 +1,26 @@
+Skill:
+  Name: בעלי חים
+  Id: 2
+
+New words:
+  - Word: gato
+    Translation: חתול
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+Phrases:
+  - Phrase: Este es un gato bueno
+    Translation: זה חתול טוב
+  - Phrase: Un gato grande
+    Translation: חתול גדול
+
+Mini-dictionary:
+  Ladino:
+    - grande: גדול
+
+
+  Hebrew:
+    - גדול: grande
+
